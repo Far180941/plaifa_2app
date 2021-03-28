@@ -19,7 +19,7 @@ class _StudentState extends State<Student> {
           onPressed: () {
             Navigator.pop(context);
           },
-          child: Text("Back"),
+          child: Text("กลับ"),
         ),
       ),
     );
